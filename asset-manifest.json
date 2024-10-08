@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Vasynet/static/css/main.5f21f994.css",
-    "main.js": "/Vasynet/static/js/main.e486c5f4.js",
+    "main.js": "/Vasynet/static/js/main.235f59fc.js",
     "index.html": "/Vasynet/index.html",
     "main.5f21f994.css.map": "/Vasynet/static/css/main.5f21f994.css.map",
-    "main.e486c5f4.js.map": "/Vasynet/static/js/main.e486c5f4.js.map"
+    "main.235f59fc.js.map": "/Vasynet/static/js/main.235f59fc.js.map"
   },
   "entrypoints": [
     "static/css/main.5f21f994.css",
-    "static/js/main.e486c5f4.js"
+    "static/js/main.235f59fc.js"
   ]
 }
