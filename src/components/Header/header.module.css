@@ -1,0 +1,89 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 50px;
+    border-bottom: 1px solid #ccc;
+}
+
+.headerLogo {
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 0.2rem;
+    color: var(--color-purple);
+    cursor: pointer;
+}
+
+.authBtn {
+    cursor: pointer;
+    border: 0;
+    border-radius: 4px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 25px;
+    font-weight: 600;
+    margin: 0 10px;
+    padding: 5px 0;
+    box-shadow: var(--shadow);
+    transition: 0.4s;
+    font-size: 15px;
+}
+
+
+.reg {
+    color: white;
+    background-color: var(--color-purple)
+}
+
+.log {
+    color: var(--color-purple);
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid var(--color-purple);
+}
+
+.authBtn:hover {
+    color: white;
+    /* width: 60px; */
+    box-shadow: 0 0 20px rgba(104, 85, 224, 0.6);
+    background-color: var(--color-purple);
+}
+
+.authLoc {
+    display: flex;
+    align-items: center;
+}
+
+.profileBtn {
+    background-color: transparent;
+    font-size: 16px;
+    color: #333;
+    font-weight: bold;
+    padding: 5px;
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 3px;
+    border: 1px solid var(--color-purple);
+}
+
+.logoutBtn {
+    margin-left: 20px;
+    background-color: var(--color-purple);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.logoutBtn:hover {
+    box-shadow: 0 0 20px rgba(104, 85, 224, 0.6);
+}
+
+.logoutBtn:focus {
+    outline: none;
+    box-shadow: 0 0 5px rgba(106, 13, 173, 0.5);
+}
