@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//vasilenko24.github.io/Vasynet/static/css/main.5f21f994.css",
+    "main.js": "//vasilenko24.github.io/Vasynet/static/js/main.e486c5f4.js",
+    "index.html": "//vasilenko24.github.io/Vasynet/index.html",
+    "main.5f21f994.css.map": "//vasilenko24.github.io/Vasynet/static/css/main.5f21f994.css.map",
+    "main.e486c5f4.js.map": "//vasilenko24.github.io/Vasynet/static/js/main.e486c5f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f21f994.css",
+    "static/js/main.e486c5f4.js"
+  ]
+}
